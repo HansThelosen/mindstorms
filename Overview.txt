@@ -1,0 +1,10 @@
+Current investigation (2017):
+
+For FIRST LEGO League support an overview of practical functions.
+
+For EV3 training purposes a simple robot and description of the basic functionality.
+In Dutch and in English
+
+EV3DEV support
+
+LeJOS support
